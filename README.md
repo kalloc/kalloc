@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+I [![Support Ukraine](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine) and Russia <3 
 
